@@ -1,3 +1,5 @@
+<img src="https://github.com/jotavioms/jotavioms/blob/main/header.png" />
+
 ### Who am I
 - :mortar_board: Graduated in **Systems Analysis and Development**, and postgraduate in **Information Security and Cybersec**.
 - :computer: I have more than **12 years in the IT area**, having worked as support, QA, fullstack developer, software engineer and engineering lead.

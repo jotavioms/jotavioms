@@ -10,20 +10,20 @@
 
 ### My Stacks
 <p align="center">
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/
- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+ <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/
+ <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/PHP-00599C?style=flat-square&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
  <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby"/>
- <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+ <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
  <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript"/>
  <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
@@ -49,7 +49,7 @@
  <img src="https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circleci"/>
  <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
- <img src="https://img.shields.io/badge/PostgreSQL--black?style=flat-square&logo=postgresql"/>
+ <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
  <img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb"/>
  <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql"/>
  <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>

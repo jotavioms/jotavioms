@@ -22,17 +22,17 @@
  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
  <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"/>
  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript"/>
- <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell"/>
- <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux"/>
  <img src="https://img.shields.io/badge/-Ember.js-black?style=flat-square&logo=emberdotjs"/>
  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"/>
+ <img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Formik-black?style=flat-square&logo=formik"/>
  <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest"/>
  <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium"/>
  <img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress"/>
+ <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json"/>
 </p>
 
  ### My Tools

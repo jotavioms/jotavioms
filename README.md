@@ -2,11 +2,11 @@
 
 ### Who am I
 - :mortar_board: Graduated in **Systems Analysis and Development**, and postgraduate in **Information Security and Cybersec**.
-- :computer: I have more than **12 years in the IT area**, having worked as support, QA, fullstack developer, software engineer and engineering lead.
+- :computer: I have more than **12 years in the IT area**, previously worked as support analyst, QA analyst, fullstack developer, software engineer and engineering lead.
 - :black_heart: I found my passion in **managing** multistack teams focused on **software and product engineering** (ProdTech).
 - :tophat: I've also been a **SEC** enthusiast since I was 12 years old, which is why I found this "computer thing" interesting to study. Who has never opened a CD drive from an MSN contact? (Age reveal haha)
 - :rocket: Above all, I continue to be a hard-working and curious **developer**. 
-- Also I'm passionate about: :musical_note: **music** (I have my own musical project on Spotify with singles released); :ghost: **horror** movies/games; and :skull: **skull** tattoos. 
+- Also I'm passionate about: :musical_note: **music** (I have my own [one-man band on Spotify](https://open.spotify.com/intl-pt/artist/6wskxIB1bMLVFdKDjeG1aU) with some singles released); :ghost: **horror** movies/games; and :skull: **skull** tattoos. 
 
 ### My Stacks
 <p align="center">

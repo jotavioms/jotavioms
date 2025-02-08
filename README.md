@@ -1,12 +1,10 @@
 <img src="https://github.com/jotavioms/jotavioms/blob/main/header.png" />
+<!-- Maybe you need to "see" beyond this image... **grep** my **Comment** and find out  -->
 
 ### Who am I
-- :mortar_board: Graduated in **Systems Analysis and Development**, and postgraduate in **Information Security and Cybersec**.
-- :computer: I have more than **12 years in the IT area**, previously worked as support analyst, QA analyst, fullstack developer, software engineer and engineering lead.
-- :black_heart: I found my passion in **managing** multistack teams focused on **software and product engineering** (ProdTech).
-- :tophat: I've also been a **SEC** enthusiast since I was 12 years old, which is why I found this "computer thing" interesting to study. Who has never opened a CD drive from an MSN contact? (Age reveal haha)
-- :rocket: Above all, I continue to be a hard-working and curious **developer**. 
-- Also I'm passionate about: :musical_note: **music** (I have my own [one-man band on Spotify](https://open.spotify.com/intl-pt/artist/6wskxIB1bMLVFdKDjeG1aU) with some singles released); :ghost: **horror** movies/games; and :skull: **skull** tattoos. 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzcGVjaWFsNHlvdSI6IkNvbmdyYXR1bGF0aW9ucyEgWW91IHNvbHZlZCBteSBsaXR0bGUgcmlkZGxlIGFuZCBub3cgeW91J3JlIGdvaW5nIHRvIGdldCB0byBrbm93IG1lIGJldHRlciEiLCJlZHVjYXRpb24iOiJcdWQ4M2NcdWRmOTMgR3JhZHVhdGVkIGluIFN5c3RlbXMgQW5hbHlzaXMgYW5kIERldmVsb3BtZW50LCBhbmQgcG9zdGdyYWR1YXRlIGluIEluZm9ybWF0aW9uIFNlY3VyaXR5IGFuZCBDeWJlcnNlYy4iLCJwcm9mZXNzaW9uYWwiOiJcdWQ4M2RcdWRjYmIgSSBoYXZlIG1vcmUgdGhhbiAxMiB5ZWFycyBpbiB0aGUgSVQgYXJlYSwgcHJldmlvdXNseSB3b3JrZWQgYXMgc3VwcG9ydCBhbmFseXN0LCBRQSBhbmFseXN0LCBmdWxsc3RhY2sgZGV2ZWxvcGVyLCBzb2Z0d2FyZSBlbmdpbmVlciBhbmQgZW5naW5lZXJpbmcgbGVhZC4iLCJwYXNzaW9uIjoiXHVkODNkXHVkZGE0IEkgZm91bmQgbXkgcGFzc2lvbiBpbiBtYW5hZ2luZyBtdWx0aXN0YWNrIHRlYW1zIGZvY3VzZWQgb24gc29mdHdhcmUgYW5kIHByb2R1Y3QgZW5naW5lZXJpbmcgKFByb2RUZWNoKS4iLCJlbnRodXNpYXNtIjoiXHVkODNjXHVkZmE5IEkndmUgYWxzbyBiZWVuIGEgU0VDIGVudGh1c2lhc3Qgc2luY2UgSSB3YXMgMTIgeWVhcnMgb2xkLCB3aGljaCBpcyB3aHkgSSBmb3VuZCB0aGlzICdjb21wdXRlciB0aGluZycgaW50ZXJlc3RpbmcgdG8gc3R1ZHkuIFdobyBoYXMgbmV2ZXIgb3BlbmVkIGEgQ0QgZHJpdmUgZnJvbSBhbiBNU04gY29udGFjdD8gKEFnZSByZXZlYWwgaGFoYSkiLCJzdGlsbGRldiI6Ilx1ZDgzZFx1ZGU4MCBBYm92ZSBhbGwsIEkgY29udGludWUgdG8gYmUgYSBoYXJkLXdvcmtpbmcgYW5kIGN1cmlvdXMgZGV2ZWxvcGVyLiIsImhvYmJpZXMiOiJBbHNvIEknbSBwYXNzaW9uYXRlIGFib3V0OiBcdWQ4M2NcdWRmYjUgbXVzaWMgKEkgaGF2ZSBteSBvd24gb25lLW1hbiBiYW5kIG9uIFNwb3RpZnkgd2l0aCBzb21lIHNpbmdsZXMgcmVsZWFzZWQpOyBcdWQ4M2RcdWRjN2IgaG9ycm9yIG1vdmllcy9nYW1lczsgYW5kIFx1ZDgzZFx1ZGM4MCBza3VsbCB0YXR0b29zLiIsImJhbmQiOiJodHRwczovL29wZW4uc3BvdGlmeS5jb20vaW50bC1wdC9hcnRpc3QvNndza3hJQjFiTUxWRmRLRGplRzFhVSIsImNvbnRhY3RtZSI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9qb2Fvc291emExMy8ifQ.f2vyq9SlIKfDaZ--rH_vre3AgutQfSBLpY812PjvF8U
+<!-- Do you know which enconding this is? You'll need a secret + algorithm is HS256 -->
+
 
 ### My Stacks
 <p align="center">

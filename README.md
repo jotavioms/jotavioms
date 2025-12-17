@@ -67,13 +67,6 @@
 
 ### My Stats
 <p align="center">
- <img src="https://badges.pufler.dev/visits/jotavioms/jotavioms"/> 
- <img src="https://badges.pufler.dev/years/jotavioms"/>
- <img src="https://badges.pufler.dev/repos/jotavioms"/>
- <img src="https://badges.pufler.dev/commits/monthly/jotavioms" />
-</p
-
-<p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height=180 align="auto" src="https://github-readme-stats.vercel.app/api?username=jotavioms&show_icons=true&theme=dark" />
  </a>
@@ -81,7 +74,5 @@
    <img height=180 align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavioms&theme=dark&layout=compact&langs_count=8&card_width=300" />
  </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jotavioms&theme=onedark&rank=-C,-B,-?)](https://github.com/jotavioms/github-profile-trophy)
 
 
